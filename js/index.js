@@ -1,4 +1,4 @@
-// Using OOP 
+// Using OOP -Kompleks
 
 class stopWatch {
     constructor(obj = {}) {
